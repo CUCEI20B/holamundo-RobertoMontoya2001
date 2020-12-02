@@ -3,13 +3,12 @@
 using namespace std;
 
 int main() {
-    unsigned int base;
-    unsigned int altura;
+    string c;
 
-    cin >> base;
-    cin >> altura;
+    cin >>c;
 
-    cout << (base * altura / 2)<<endl;
+    cout<<"hola mundo"<<endl;
+    
 
 
     return 0;
